@@ -1,0 +1,22 @@
+{
+  "name": "2106-1",
+  "version": "0.0.2",
+  "description": "Express Server for Zoom Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoebishop/2106-1.git"
+  },
+  "author": "Zoe Bishop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoebishop/2106-1/issues"
+  },
+  "homepage": "https://github.com/zoebishop/2106-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
